@@ -1,4 +1,6 @@
-package domain;
+package subclases;
+
+import abstractas.Scooter;
 
 public class ScooterGasolina extends Scooter{
     public ScooterGasolina(String modelo, String color, int potencia){

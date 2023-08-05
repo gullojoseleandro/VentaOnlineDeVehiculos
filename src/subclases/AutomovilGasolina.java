@@ -1,4 +1,6 @@
-package domain;
+package subclases;
+
+import abstractas.Automovil;
 
 public class AutomovilGasolina extends Automovil{
     public AutomovilGasolina(String modelo, String color, int potencia, double espacio){

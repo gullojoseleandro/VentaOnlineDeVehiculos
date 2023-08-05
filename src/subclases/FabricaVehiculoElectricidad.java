@@ -1,4 +1,10 @@
-package domain;
+package subclases;
+
+import subclases.AutomovilElectricidad;
+import subclases.ScooterElectrico;
+import interfaces.FabricaVehiculo;
+import abstractas.Automovil;
+import abstractas.Scooter;
 
 public class FabricaVehiculoElectricidad implements FabricaVehiculo{
     

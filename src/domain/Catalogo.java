@@ -1,4 +1,9 @@
 package domain;
+import subclases.FabricaVehiculoGasolina;
+import subclases.FabricaVehiculoElectricidad;
+import interfaces.FabricaVehiculo;
+import abstractas.Automovil;
+import abstractas.Scooter;
 import java.util.*;
 
 public class Catalogo {

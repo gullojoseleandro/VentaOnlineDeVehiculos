@@ -1,4 +1,4 @@
-package domain;
+package abstractas;
 
 public abstract class Scooter {
     protected String modelo;
